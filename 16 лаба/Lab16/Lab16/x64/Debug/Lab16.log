@@ -1,0 +1,50 @@
+﻿Сборка начата 05.05.2022 18:00:35.
+Уровень детализации журнала: Normal.     1>Проект "F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\Lab16\Lab16.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\x64\Debug\".
+         Создание каталога "x64\Debug\Lab16.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\Lab16.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc142.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt dop1.cpp dop2.cpp dop3.cpp Lab16.cpp osnova.cpp Sorts.cpp
+         dop1.cpp
+     1>F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\Lab16\dop1.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\Lab16\dop1.cpp(12,25): warning C4101: j: неиспользованная локальная переменная
+         dop2.cpp
+     1>F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\Lab16\dop2.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         dop3.cpp
+     1>F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\Lab16\dop3.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\Lab16\dop3.cpp(13,22): warning C4101: C: неиспользованная локальная переменная
+         Lab16.cpp
+         osnova.cpp
+     1>F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\Lab16\osnova.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         Sorts.cpp
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\x64\Debug\Lab16.exe" /INCREMENTAL /ILK:"x64\Debug\Lab16.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\x64\Debug\Lab16.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\x64\Debug\Lab16.lib" /MACHINE:X64 x64\Debug\dop1.obj
+         x64\Debug\dop2.obj
+         x64\Debug\dop3.obj
+         x64\Debug\Lab16.obj
+         x64\Debug\osnova.obj
+         x64\Debug\Sorts.obj
+         Lab16.vcxproj -> F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\x64\Debug\Lab16.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Lab16.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Lab16.tlog\Lab16.lastbuildstate".
+     1>Сборка проекта "F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\Lab16\Lab16.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\Lab16\Lab16.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\Lab16\dop1.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\Lab16\dop1.cpp(12,25): warning C4101: j: неиспользованная локальная переменная
+         F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\Lab16\dop2.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\Lab16\dop3.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\Lab16\dop3.cpp(13,22): warning C4101: C: неиспользованная локальная переменная
+         F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab16\Lab16\osnova.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+
+    Предупреждений: 6
+    Ошибок: 0
+
+Прошло времени 00:00:03.74

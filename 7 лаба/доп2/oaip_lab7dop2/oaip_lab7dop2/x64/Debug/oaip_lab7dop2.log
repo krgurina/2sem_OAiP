@@ -1,0 +1,32 @@
+﻿Сборка начата 17.03.2022 1:59:02.
+Уровень детализации журнала: Normal.     1>Проект "F:\лабы\ОАиП\7 лаба\доп2\oaip_lab7dop2\oaip_lab7dop2\oaip_lab7dop2.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "F:\лабы\ОАиП\7 лаба\доп2\oaip_lab7dop2\x64\Debug\".
+         Создание каталога "x64\Debug\oaip_lab7dop2.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\oaip_lab7dop2.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc142.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt oaip_lab7dop2.cpp stack.cpp
+         oaip_lab7dop2.cpp
+     1>F:\лабы\ОАиП\7 лаба\доп2\oaip_lab7dop2\oaip_lab7dop2\oaip_lab7dop2.cpp(48,18): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         stack.cpp
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\лабы\ОАиП\7 лаба\доп2\oaip_lab7dop2\x64\Debug\oaip_lab7dop2.exe" /INCREMENTAL /ILK:"x64\Debug\oaip_lab7dop2.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\лабы\ОАиП\7 лаба\доп2\oaip_lab7dop2\x64\Debug\oaip_lab7dop2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\лабы\ОАиП\7 лаба\доп2\oaip_lab7dop2\x64\Debug\oaip_lab7dop2.lib" /MACHINE:X64 x64\Debug\oaip_lab7dop2.obj
+         x64\Debug\stack.obj
+         oaip_lab7dop2.vcxproj -> F:\лабы\ОАиП\7 лаба\доп2\oaip_lab7dop2\x64\Debug\oaip_lab7dop2.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\oaip_lab7dop2.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\oaip_lab7dop2.tlog\oaip_lab7dop2.lastbuildstate".
+     1>Сборка проекта "F:\лабы\ОАиП\7 лаба\доп2\oaip_lab7dop2\oaip_lab7dop2\oaip_lab7dop2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "F:\лабы\ОАиП\7 лаба\доп2\oaip_lab7dop2\oaip_lab7dop2\oaip_lab7dop2.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         F:\лабы\ОАиП\7 лаба\доп2\oaip_lab7dop2\oaip_lab7dop2\oaip_lab7dop2.cpp(48,18): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:01.83

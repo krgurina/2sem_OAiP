@@ -1,0 +1,28 @@
+﻿Сборка начата 16.02.2022 23:37:14.
+Уровень детализации журнала: Normal.     1>Проект "F:\лабы\ОАиП\4 лаба\oaip_lab4\oaip_lab4\oaip_lab4.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\oaip_lab4.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt oaip_lab4.cpp
+         oaip_lab4.cpp
+     1>F:\лабы\ОАиП\4 лаба\oaip_lab4\oaip_lab4\oaip_lab4.cpp(374,21): warning C4018: <: несоответствие типов со знаком и без знака
+     1>F:\лабы\ОАиП\4 лаба\oaip_lab4\oaip_lab4\oaip_lab4.cpp(498,21): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"F:\лабы\ОАиП\4 лаба\oaip_lab4\Debug\oaip_lab4.exe" /INCREMENTAL /ILK:"Debug\oaip_lab4.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\лабы\ОАиП\4 лаба\oaip_lab4\Debug\oaip_lab4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\лабы\ОАиП\4 лаба\oaip_lab4\Debug\oaip_lab4.lib" /MACHINE:X86 Debug\oaip_lab4.obj
+         oaip_lab4.vcxproj -> F:\лабы\ОАиП\4 лаба\oaip_lab4\Debug\oaip_lab4.exe
+       FinalizeBuildStatus:
+         Файл "Debug\oaip_lab4.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\oaip_lab4.tlog\oaip_lab4.lastbuildstate".
+     1>Сборка проекта "F:\лабы\ОАиП\4 лаба\oaip_lab4\oaip_lab4\oaip_lab4.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "F:\лабы\ОАиП\4 лаба\oaip_lab4\oaip_lab4\oaip_lab4.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         F:\лабы\ОАиП\4 лаба\oaip_lab4\oaip_lab4\oaip_lab4.cpp(374,21): warning C4018: <: несоответствие типов со знаком и без знака
+         F:\лабы\ОАиП\4 лаба\oaip_lab4\oaip_lab4\oaip_lab4.cpp(498,21): warning C4018: <: несоответствие типов со знаком и без знака
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:01.17

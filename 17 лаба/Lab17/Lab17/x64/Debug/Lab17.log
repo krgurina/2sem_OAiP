@@ -1,0 +1,29 @@
+﻿Сборка начата 05.05.2022 18:29:26.
+Уровень детализации журнала: Normal.     1>Проект "F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab17\Lab17\Lab17.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab17\x64\Debug\".
+         Создание каталога "x64\Debug\Lab17.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\Lab17.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc142.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt Lab17.cpp
+         Lab17.cpp
+     1>F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab17\Lab17\Lab17.cpp(15,6): warning C4101: buf: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab17\x64\Debug\Lab17.exe" /INCREMENTAL /ILK:"x64\Debug\Lab17.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab17\x64\Debug\Lab17.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab17\x64\Debug\Lab17.lib" /MACHINE:X64 x64\Debug\Lab17.obj
+         Lab17.vcxproj -> F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab17\x64\Debug\Lab17.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Lab17.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Lab17.tlog\Lab17.lastbuildstate".
+     1>Сборка проекта "F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab17\Lab17\Lab17.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab17\Lab17\Lab17.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         F:\пусть будет\оаип 2 сем\OAP_Labs_2sem-master\OAP_Labs_2sem-master\Lab17\Lab17\Lab17.cpp(15,6): warning C4101: buf: неиспользованная локальная переменная
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:00.76
